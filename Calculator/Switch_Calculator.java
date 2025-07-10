@@ -1,4 +1,5 @@
 import java.io.*;
+
 class Switch_Calculator {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
